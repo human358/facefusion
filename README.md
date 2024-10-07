@@ -11,7 +11,7 @@ FaceFusion
 Preview
 -------
 
-![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
+![Preview](https://raw.githubusercontent.com/human358/facefusion/refs/heads/master/ff_streisand_edition.png?sanitize=true)
 
 
 Installation
